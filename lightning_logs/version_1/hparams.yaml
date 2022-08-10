@@ -1,0 +1,12 @@
+attn_mlp_dim: 64
+batch_size: 256
+dropout: 0.0
+embed_dim: 32
+latent_dim: 64
+learning_rate: 0.001
+n_blocks: 4
+n_classes: 100
+trnfr_heads: 8
+trnfr_layers: 4
+trnfr_mlp_dim: 128
+weight_decay: 0.03
