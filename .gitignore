@@ -1,1 +1,3 @@
-.data/
+lightning_logs/
+MNIST/
+training/
