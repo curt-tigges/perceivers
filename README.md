@@ -1,6 +1,4 @@
 # Perceivers
-
-# Query2Label
 My implementation of the [Perceiver](https://arxiv.org/abs/2103.03206) and [Perceiver IO](https://arxiv.org/abs/2107.14795) papers.
 
 ## Overview
