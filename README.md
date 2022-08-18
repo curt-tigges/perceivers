@@ -37,7 +37,7 @@ This model was trained with the following packages:
 To train this model with MNIST, simply run through the `perceiver-demo.ipynb` or `perceiver-io-demo.ipynb` notebook.
 
 ## Results
-This model was able to get 97% accuracy on MNIST. F Settings for achieving this are explained in the [blog post](https://medium.com/@curttigges/building-a-transformer-powered-sota-image-labeller-cfe25e6d69f1).
+This model was able to get 97% accuracy on MNIST. Settings for achieving this are explained in the [blog post](https://medium.com/@curttigges/building-a-transformer-powered-sota-image-labeller-cfe25e6d69f1).
 
 ## To Do
 - [x] Create initial complete Perceiver model
