@@ -2,7 +2,7 @@
 My implementation of the [Perceiver](https://arxiv.org/abs/2103.03206) and [Perceiver IO](https://arxiv.org/abs/2107.14795) papers.
 
 ## Overview
-This repository contains my from-scratch implementation of the Perceiver model and the subsequent Perceiver IO architecture. You can see the full details in my [blog post](), which I wrote as an introduction/tutorial for Perceivers. This particular one I trained on MNIST, though that is only the tiniest tip of the iceberg of what Perceivers can do.
+This repository contains my from-scratch implementation of the Perceiver model and the subsequent Perceiver IO architecture. You can see the full details in my [blog post](https://medium.com/@curttigges/the-annotated-perceiver-74752113eefb), which I wrote as an introduction/tutorial for Perceivers. This particular one I trained on MNIST, though that is only the tiniest tip of the iceberg of what Perceivers can do.
 
 
 ### Data
@@ -37,7 +37,7 @@ This model was trained with the following packages:
 To train this model with MNIST, simply run through the `perceiver-demo.ipynb` or `perceiver-io-demo.ipynb` notebook.
 
 ## Results
-This model was able to get 97% accuracy on MNIST. Settings for achieving this are default in the Perceiver notebook. I cover how everything is implemented in the [blog post](https://medium.com/@curttigges/building-a-transformer-powered-sota-image-labeller-cfe25e6d69f1).
+This model was able to get 97% accuracy on MNIST. Settings for achieving this are default in the Perceiver notebook. I cover how everything is implemented in the [blog post](https://medium.com/@curttigges/the-annotated-perceiver-74752113eefb).
 
 ## To Do
 - [x] Create initial complete Perceiver model
